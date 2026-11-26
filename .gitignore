@@ -1,0 +1,8 @@
+# Original folder: files exceed GitHub's 100 MB per-file limit
+11.7.9.408/
+
+# Local reassembly output
+11.7.9.408_shards/restored/
+
+# Local tool config
+.cac/
